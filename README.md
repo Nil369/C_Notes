@@ -1,6 +1,6 @@
 # C_Notes
-<h1>Introduction:</h1>
-<img align="right" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C icon" width="400px">
+<h1>1. Introduction:</h1>
+<img align="right" src="https://intellipaat.com/wp-content/uploads/2015/12/c-features.png" alt="C icon" width="400px">
 <h3>
 1.  Developed by Dennis Ritchie at Bell Labs in the early 1970s.
   
@@ -19,7 +19,7 @@
           <h4> ► Code Editor/ IDE => Download VS Code </h4><p>I know many people will suggest you to install DevC++/ Turbo C ... But all of these are discontinuos software</p>
 </h3>
 
-<h1>How is it different from C++?</h1>
+<h1>2. How is it different from C++?</h1>
 <h3>
 
 ►  The syntax of C++ is almost identical to that of C, as C++ was developed as an extension of C.
@@ -31,7 +31,7 @@
 ►  C is POP(procedure oriented programming) whereas c++ is OOP(Object oriented programming)
 </h3>
 
-<h1>Basic Structure & Syntax</h1>
+<h1>3. Basic Structure & Syntax</h1>
 <p>Programming in C involves following a basic structure throughout. Here’s what it can be broken down to.</p>
 
 <h3>
@@ -71,7 +71,7 @@ Detailed explanations of everything else in the structure will follow in the lat
 
 ·       It stores functions as per their categories hence they are called library</p>
 
-<img align="right" src="https://i.redd.it/nmuax05zxoab1.gif" alt="C logo" width="400px">
+<img align="right" src="https://i.redd.it/nmuax05zxoab1.gif" alt="C logo" width="450px">
 
 <h2>Syntax</h2>
 <p>An example below shows how a basic C program is written.</p>
@@ -122,3 +122,98 @@ Rules for naming identifier-
 
 <h2>String Literal</h2>
 <p>String literals or string constants are a sequence of characters enclosed in double quotation marks. For example,  “This is a string literal!” is a string literal. C method printf() utilizes the same to format the output.</p>
+
+<br>
+<h1>4. Quick Reference on fundamental concepts of C language: </h1>
+
+<img align="right" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C icon" width="400px">
+
+<h2>Variables:</h2>
+
+►  Variables are storage locations in a program that hold values.
+
+►  They have a data type (e.g., int, float, char) that determines the type of data they can hold.
+
+►  Variables can be assigned values and used to perform computations.</h3>
+
+<h2> Data Types: </h2>
+
+
+►  Data types define the type of data that a variable can hold.
+
+►  Examples include int (for integers), float (for floating-point numbers), char (for characters), and more.
+
+►  User-defined data types like structures and unions can also be created.
+
+<h2>Loops:</h2>
+
+►  Loops are control structures that allow the execution of a block of code repeatedly as long as a specified condition is met.
+
+►  Common types of loops in C are for, while, and do-while.
+
+<h2>Conditional Statements:</h2>
+
+►  Conditional statements allow the execution of different code blocks based on certain conditions.
+
+►  The primary conditional statement in C is <b>if-else</b>, which allows for branching based on true/false conditions.
+
+<h2>Arrays:</h2>
+
+►  Arrays are collections of elements of the same data type under one name.
+
+►  Elements in an array are accessed using an index, which starts from 0.
+
+►  Arrays are useful for storing and manipulating sets of data.
+
+<h2>Strings:</h2>
+
+►  In C, a string is an array of characters terminated by a null character \0.
+
+►  String manipulation functions like strlen(), strcpy(), and strcat() are used for handling strings.
+
+<h2> Functions:</h2>
+
+►  Functions are blocks of code that perform a specific task.
+
+►  They provide modularity, allowing code to be organized into reusable pieces.
+
+►  Functions can have parameters (input) and return a value (output).
+
+<h2>Pointers:</h2>
+
+►  Pointers are variables that store memory addresses.
+
+►  They allow direct access to memory locations and facilitate dynamic memory allocation.
+
+<h2>Structures and Unions:</h2>
+
+►  Structures allow the grouping of different types of variables under a single name.
+
+►  Unions, like structures, can hold multiple variables, but they share the same memory location.
+
+<h2>File Handling:</h2>
+
+►  C provides functions to interact with files for reading from and writing to external storage.
+
+►  Operations like opening, closing, reading, and writing files are supported.
+
+<h2>Preprocessor Directives:</h2>
+
+►  These are special commands preceded by a # symbol.
+►  They are used to include files, perform conditional compilation, and define constants.
+
+<h2>Dynamic Memory Allocation:</h2>
+
+►  C provides functions like malloc(), calloc(), and realloc() to allocate memory dynamically during program execution.
+
+►  This is useful for managing memory for data structures like linked lists and trees.
+
+<h2>Bitwise Operators:</h2>
+
+►  C supports bitwise operations (AND, OR, XOR, etc.) that work at the bit level.
+
+►  These operations are useful in tasks involving low-level hardware manipulation.
+
+<p><b>These are some of the foundational concepts in the C programming language. Understanding these concepts is crucial for writing effective and efficient C programs.</b></p>
+
+<h1>Refer my Source Code for better understanding of these concepts </h1>
