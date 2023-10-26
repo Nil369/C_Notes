@@ -17,6 +17,8 @@
 7.  To run C/C++ in your system you need 2 things:
           <h4> ► MinGW compiler => Just search mingw compiler downloader in google => Install it & then set the environment variable by giving the compiler path </h4>
           <h4> ► Code Editor/ IDE => Download VS Code </h4><p>I know many people will suggest you to install DevC++/ Turbo C ... But all of these are discontinuos software</p>
+          <h4> ► Make a file in that editor =>with ".c " extension in the file name.</h4>
+          <h4> ► Install Code Runner Plugin if u r using VS code => Will run the code easily in the IDE or you have to write some individual code in the terminal.</h4>
 </h3>
 
 <h1>2. How is it different from C++?</h1>
